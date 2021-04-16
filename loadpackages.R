@@ -1,4 +1,5 @@
 # R Shiny tutorial
+# google doc: https://docs.google.com/document/d/1RGRQ0GJIrEvwiPdS3nzJTx8GjN5XhI0w-pyGW5w7YYc/edit
 
 install.packages("shiny")
 install.packages("shinythemes")
